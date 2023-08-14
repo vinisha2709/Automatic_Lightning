@@ -10,6 +10,7 @@ The aim of this project is to automatically turn on or off the lights in a room 
 Since the job of the circuit is to turn on the light when someone enters the room and turn off the light when the last person leaves the room, the project has to internally count the number of visitors entering and leaving the room. Hence, the project acts as an Automatic Room Lighting System as well as Bidirectional Visitor Counter.
 
 **Components Required**
+
   ->AT89S52 Microcontroller (any 8051 architecture based microcontroller)
   
   ->8051 Development Board
