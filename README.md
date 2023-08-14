@@ -11,10 +11,17 @@ Since the job of the circuit is to turn on the light when someone enters the roo
 
 **Components Required**
   ->AT89S52 Microcontroller (any 8051 architecture based microcontroller)
+  
   ->8051 Development Board
+  
   ->2 x Infrared Sensors
+  
   ->16 x 2 LCD Display
+  
   ->5V Relay Module
+  
   ->Lamp
+  
   ->Connecting Wires
+  
   ->Power Supply
